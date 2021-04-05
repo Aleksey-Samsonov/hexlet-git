@@ -1,2 +1,1 @@
-git is awesme!
-new line
+new text
